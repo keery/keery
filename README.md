@@ -3,7 +3,7 @@
 > If you are here, you are probably wondering who Guillaume ESNAULT is; 
 
 Guillaume is a Javascript developer used to work in Paris who currently living and working in Montreal.  
-An enthusiastic guy who love working on modern apps, rethinking design, improving user interfaces making them more efficient and easy to use, that's what matter
+An enthusiastic guy who love creating modern apps, rethinking design, improving user interfaces making them more efficient and easy to use, that's what matters.
 
 
 [![Keery's github stats](https://github-readme-stats.vercel.app/api?username=keery)](https://github.com/keery/github-readme-stats&theme=vue)
