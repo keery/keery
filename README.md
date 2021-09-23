@@ -11,7 +11,6 @@ An enthusiastic guy who love creating modern apps, rethinking design, improving 
 
 ##
 - 🔭 I’m currently working on learning everyday and improving myself.
-- 🌱 I’m currently learning IT Automation with Python taught by the Google team and Machine Learning Engineering for Production (MLOps) taught by Andrew Ng {both via coursera}.
 - 👯 I’m looking to collaborate on interesting open-source projects with funny guys.
 - 🤔 I’m looking for inspiring front design and revolutionary libs.
 - 💬 Ask me about UX and UI stuffs
