@@ -1,8 +1,8 @@
-## Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## Hello folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 > If you are here, you are probably wondering who Guillaume ESNAULT is; 
 
-Guillaume is a Javascript developer used to work in Paris who currently living and working in Montreal.  
+Guillaume is a Javascript developer originally from Paris but currently living and working in Melbourne Australia.  
 An enthusiastic guy who love creating modern apps, rethinking design, improving user interfaces making them more efficient and easy to use, that's what matters.
 
 
